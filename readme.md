@@ -26,4 +26,4 @@ Adapun untuk faktor lain yang mempengaruhi indeks pendidikan perlu untuk ditelit
 
 ---
 
-Terima kasih telah mengunjungi repositori proyek Kelompok XYZ. Semoga proyek ini bermanfaat!
+Terima kasih telah mengunjungi repositori proyek kelompok kami. Semoga proyek ini bermanfaat!
