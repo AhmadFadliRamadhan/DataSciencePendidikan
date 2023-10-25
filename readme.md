@@ -1,4 +1,4 @@
-# Data Sciencen - Kelompok Pendidikan
+# Data Science - Kelompok Pendidikan
 
 Selamat datang di repositori kelompok kami. Repositori ini merupakan tugas kami dalam matakuliah Data Science.
 
@@ -16,6 +16,7 @@ Repositori ini berisikan notebook python berjudul "Pengaruh Rasio Guru dan Siswa
 ## List Pertanyaan
 
 Rafi Iyad Madani Chaidir E1E1 21 038
+
 = Bagaimana dengan kurikulum? Bukan kah kurikulum juga mempengaruhi kualitas pendidikan di persekolahan.
 
 Jawaban:
